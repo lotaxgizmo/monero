@@ -9,9 +9,9 @@ function App() {
     <div className="total">
       <Header />
       <Hero />
-      {/* <Secondpic /> */}
-      {/* <Thirdpart /> */}
-      {/* <Whychoose /> */}
+      <Secondpic />
+      <Thirdpart />
+      <Whychoose />
     </div>
   );
 }
