@@ -11,14 +11,26 @@ function Header() {
         <div className='flex items-center justify-center'>
             <div className='bg-black/60 w-96 items-center p-3'>
                 <div className="upper flex flex-row items-center">
-                    <img src={home} alt="" className='w-52' />
-                    <img src={about} alt="" className='w-52' />
-                    <img src={buy} alt="" className='w-52' />
+                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                        <img src={home} alt="" className='w-52' />
+                    </a>
+                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                        <img src={about} alt="" className='w-52' />
+                    </a>
+                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                        <img src={buy} alt="" className='w-52' />
+                    </a>
                 </div>
                 <div className="lower flex flex-row items-center">
-                    <img src={twitter} alt="" className='w-52' />
-                    <img src={memes} alt="" className='w-52' />
-                    <img src={telegram} alt="" className='w-52' />
+                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                        <img src={twitter} alt="" className='w-52' />
+                    </a>
+                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                        <img src={memes} alt="" className='w-52' />
+                    </a>
+                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                        <img src={telegram} alt="" className='w-52' />
+                    </a>
                 </div>
             </div>
         </div>

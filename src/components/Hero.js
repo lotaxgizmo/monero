@@ -7,14 +7,15 @@ import Herotext from '../assets/Herotext.svg'
 import beetlejuicehead from '../assets/beetlejuicehead.svg'
 import karen from '../assets/karen.svg'
 import Scrollcomponent from './Scrollcomponent'
-import yellowherobox from '../assets/yellowherobox.svg'
+import yellowherobox from '../assets/yellowherobox.gif'
 import gif from '../assets/gif.gif'
 import manson from '../assets/manson.gif'
 
 function Hero() {
     return (
         <div className='overflow-clip flex    flex-col justify-center items-center relative mt-4 mb-20 border-black'>
-            <img src={manson} alt="" className='z-[0] fixed  top-1 left-1 w-52' />
+            <img src={manson} alt="" className='z-[-10] fixed  top-0   w-[1000px]  ' />
+            <img src={manson} alt="" className='z-[-10] fixed  top-0   w-[300px] animate-spin' />
             <img src={karen} alt="" className='z-[2] absolute  top-1 left-1 w-52' />
             <img src={beetlejuicehead} alt="" className='z-[2] absolute  top-1 right-1 w-32' />
             <img src={beetlejuicehead} alt="" className='z-[2] absolute  bottom-0 left-1 w-32' />
