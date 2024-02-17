@@ -23,7 +23,7 @@ function Hero() {
 
             <div className="z-10 upper flex lg:flex-row flex-col mt-10  ">
                 <img src={gif} alt="" className='
-loop-autoplay dw-96 z-10' />
+loop-autoplay dw-96 z-10 w-96' />
 
                 <Scrollcomponent />
             </div>
