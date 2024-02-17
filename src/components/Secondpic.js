@@ -1,5 +1,5 @@
 import React from 'react'
-import secondpic from '../assets/secondpic.svg'
+import secondpic from '../assets/secondpic.gif'
 import btn2 from '../assets/btn2.svg'
 import banner from '../assets/banner.gif'
 
