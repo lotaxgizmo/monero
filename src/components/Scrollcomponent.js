@@ -17,7 +17,7 @@ function Scrollcomponent() {
                 <div className='z-30 mt-5 relative flex flex-col items-center justify-center  total h-96 w-96   lg:w-[530px] bg-black rounded-3xl pt-10  '>
 
                     <div className='absolute top-0 self-start total h-10 w-full bg-[#F9F301] flex items-center justify-center rounded-3xl rounded-b-none '>
-                        <h2 className='Irish text-2xl lg:text-3xl mb '>wElcome to monERO on SOL</h2>
+                        <h2 className='Irish text-2xl lg:text-3xl mb '>wElcome to monERO on ETH</h2>
                     </div>
 
                     <div className='flex flex-col self-start nter scrollbar overflow-x-hidden overflow-y-scroll'>
