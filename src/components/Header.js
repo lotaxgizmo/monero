@@ -14,7 +14,7 @@ function Header() {
                     <a href="#" >
                         <img src={home} alt="" className='w-52' />
                     </a>
-                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <a href="https://dexscreener.com/ethereum/0x5967443Ef74dEe21F13d851f2C0064f0db6D0968" target="_blank" rel="noopener noreferrer">
                         <img src={about} alt="" className='w-52' />
                     </a>
                     <a href="https://app.uniswap.org/swap?&chain=mainnet&use=v2&outputCurrency=0x4600430d900c2d8a372bf48d7b42897db5f462d1" target="_blank" rel="noopener noreferrer">
