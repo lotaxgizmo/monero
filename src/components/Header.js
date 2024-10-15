@@ -28,7 +28,7 @@ function Header() {
                     <a href="https://opensea.io/collection/schrotzo-gremlins"   >
                         <img src={memes} alt="" className='w-52' />
                     </a>
-                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <a href="https://T.me/schrotzo" target="_blank" rel="noopener noreferrer">
                         <img src={telegram} alt="" className='w-52' />
                     </a>
                 </div>
