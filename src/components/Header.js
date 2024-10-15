@@ -22,10 +22,10 @@ function Header() {
                     </a>
                 </div>
                 <div className="lower flex flex-row items-center">
-                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <a href="https://x.com/monerogay" target="_blank" rel="noopener noreferrer">
                         <img src={twitter} alt="" className='w-52' />
                     </a>
-                    <a href="#memes"   >
+                    <a href="https://opensea.io/collection/schrotzo-gremlins"   >
                         <img src={memes} alt="" className='w-52' />
                     </a>
                     <a href="http://" target="_blank" rel="noopener noreferrer">
