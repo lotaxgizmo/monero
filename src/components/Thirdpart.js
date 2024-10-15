@@ -12,7 +12,7 @@ import pitkaren from '../assets/pitkaren.svg'
 
 function Thirdpart() {
     return (
-        <div className='flex items-center justify-center py-20'>
+        <div id='memes' className='flex items-center justify-center py-20'>
             <div className='bg-black/70 w-11/12 p-4'>
                 <img src={wen} alt="" className='my-4' />
 
@@ -23,10 +23,14 @@ function Thirdpart() {
 
                 <div className="karen flex flex-col lg:flex-row  justify-between my-4">
                     <div>
-                        <img src={eatyellow} alt="" />
+                        <a href="https://app.uniswap.org/swap?&chain=mainnet&use=v2&outputCurrency=0x4600430d900c2d8a372bf48d7b42897db5f462d1" target="_blank" rel="noopener noreferrer">
+                            <img src={eatyellow} alt="" />
+                        </a>
                         <img src={beetlepit} alt="" />
                         <div className='flex'>
-                            <img src={eargreen} alt="" />
+                            <a href="https://app.uniswap.org/swap?&chain=mainnet&use=v2&outputCurrency=0x4600430d900c2d8a372bf48d7b42897db5f462d1" target="_blank" rel="noopener noreferrer">
+                                <img src={eargreen} alt="" />
+                            </a>
                             <img src={mon3} alt="" className='mt-20' />
                         </div>
                     </div>
@@ -39,9 +43,13 @@ function Thirdpart() {
 
                     </div>
                     <div className='flex flex-col'>
-                        <img src={eatyellow} alt="" />
+                        <a href="https://app.uniswap.org/swap?&chain=mainnet&use=v2&outputCurrency=0x4600430d900c2d8a372bf48d7b42897db5f462d1" target="_blank" rel="noopener noreferrer">
+                            <img src={eatyellow} alt="" />
+                        </a>
                         <img src={mon33} alt="" className='mt-20' />
-                        <img src={eargreen} alt="" />
+                        <a href="https://app.uniswap.org/swap?&chain=mainnet&use=v2&outputCurrency=0x4600430d900c2d8a372bf48d7b42897db5f462d1" target="_blank" rel="noopener noreferrer">
+                            <img src={eargreen} alt="" />
+                        </a>
                     </div>
                 </div>
 

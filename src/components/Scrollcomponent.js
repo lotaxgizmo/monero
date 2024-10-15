@@ -23,7 +23,7 @@ function Scrollcomponent() {
                     <div className='flex flex-col self-start nter scrollbar overflow-x-hidden overflow-y-scroll'>
 
 
-                        <h2 className='Irish text-[12px] tecent lg:text-sm mb-4 text-[#3EE242]'>contrakt: 8hXLGUsbbjY9jE2X4zfwYoNwRd3TeFJCSm18LBWSUoQy</h2>
+                        <h2 className='Irish text-[12px] tecent lg:text-sm mb-4 text-[#3EE242]'>contrakt: 0x4600430d900c2d8a372bf48d7b42897db5f462d1</h2>
 
                         <img src={dafukk} alt="" className='w-96 lg:w-auto' />
                         <p className='text-[#EA000B] Alegreya px-4 w-96 lg:w-[450px] py-3'>$Monero isn't just a coin; it's a rebellion against the mundane. Picture this: Charles Manson orchestrating financial freedom, Alex Jones shouting truth bombs on the blockchain, Beetlejuice haunting the banks of Wall Street, 1776 fighting taxation with crypto, Pitbull guarding your investments like a loyal hound, and Karen demanding financial accountability from the managers of the world.</p>

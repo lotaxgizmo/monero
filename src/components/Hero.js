@@ -31,12 +31,20 @@ loop-autoplay dw-96 z-10 w-96' />
                 <img src={Herotext} alt="" className=' z-10' />
                 <div className="btns">
                     <div className="btn1 flex flex-col lg:flex-row">
-                        <img src={btn1} alt="" className='m-2 z-10' />
-                        <img src={btn2} alt="" className='m-2 z-10' />
+                        <a href="https://app.uniswap.org/swap?&chain=mainnet&use=v2&outputCurrency=0x4600430d900c2d8a372bf48d7b42897db5f462d1" target="_blank" rel="noopener noreferrer">
+                            <img src={btn1} alt="" className='m-2 z-10' />
+                        </a>
+                        <a href="https://app.uniswap.org/swap?&chain=mainnet&use=v2&outputCurrency=0x4600430d900c2d8a372bf48d7b42897db5f462d1" target="_blank" rel="noopener noreferrer">
+                            <img src={btn2} alt="" className='m-2 z-10' />
+                        </a>
                     </div>
                     <div className="btn2 hidden lg:flex flex-row ">
-                        <img src={btn2} alt="" className='m-2 z-10' />
-                        <img src={btn4} alt="" className='m-2 z-10' />
+                        <a href="https://app.uniswap.org/swap?&chain=mainnet&use=v2&outputCurrency=0x4600430d900c2d8a372bf48d7b42897db5f462d1" target="_blank" rel="noopener noreferrer">
+                            <img src={btn2} alt="" className='m-2 z-10' />
+                        </a>
+                        <a href="https://app.uniswap.org/swap?&chain=mainnet&use=v2&outputCurrency=0x4600430d900c2d8a372bf48d7b42897db5f462d1" target="_blank" rel="noopener noreferrer">
+                            <img src={btn4} alt="" className='m-2 z-10' />
+                        </a>
                     </div>
                 </div>
             </div>
