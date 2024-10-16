@@ -5,6 +5,7 @@ import buy from '../assets/buy.svg'
 import twitter from '../assets/twitter.svg'
 import memes from '../assets/memes.svg'
 import telegram from '../assets/telegram.svg'
+import merch from '../assets/merch.svg'
 
 function Header() {
     return (
@@ -30,6 +31,9 @@ function Header() {
                     </a>
                     <a href="https://T.me/schrotzo" target="_blank" rel="noopener noreferrer">
                         <img src={telegram} alt="" className='w-52' />
+                    </a>
+                    <a href="http://moneromerch.store" target="_blank" rel="noopener noreferrer">
+                        <img src={merch} alt="" className='w-52' />
                     </a>
                 </div>
             </div>
